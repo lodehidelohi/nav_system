@@ -1,23 +1,12 @@
-### Missing 3D models - created on 2026-04-30 15:36
+### Missing 3D models - created on 2026-05-04 10:17
 ### Printed by checking_3D_models plugin
 Board file: /home/nick/Kicad projects/JoneRae/nav_system/nav_system.kicad_pcb
 3D missing models written to:
 /home/nick/Kicad projects/JoneRae/nav_system/nav_system_missing3Dmodels.txt
 -------
-('J2', '/usr/share/kicad/3dmodels/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.step')
 ('U1', '${KICAD9_FOOTPRINT_DIR}/Connector_PinSocket_2.54mm.pretty/PinSocket_2x38_P2.54mm_Vertical.kicad_mod')
 ('U1', '${KICAD9_FOOTPRINT_DIR}/Connector_PinHeader_2.54mm.pretty/PinHeader_1x19_P2.54mm_Vertical.kicad_mod')
-('R3', '/usr/share/kicad/3dmodels/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step')
-('R2', '/usr/share/kicad/3dmodels/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step')
-('R1', '/usr/share/kicad/3dmodels/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step')
-('J10', '/usr/share/kicad/3dmodels/Connector_JST.3dshapes/JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical.step')
-('J9', '/usr/share/kicad/3dmodels/Connector_JST.3dshapes/JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical.step')
-('J8', '/usr/share/kicad/3dmodels/Connector_JST.3dshapes/JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical.step')
-('J6', '/usr/share/kicad/3dmodels/Connector_JST.3dshapes/JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical.step')
-('J5', '/usr/share/kicad/3dmodels/Connector_JST.3dshapes/JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical.step')
-('J4', '/usr/share/kicad/3dmodels/Connector_JST.3dshapes/JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical.step')
-('J3', '/usr/share/kicad/3dmodels/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x07_P2.54mm_Vertical.step')
-('J1', '/usr/share/kicad/3dmodels/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.step')
+('U1', '/home/nick/Downloads/ESP32-DEVKITC-32D--3DModel-STEP-269445.STEP')
 -------
-NUM of 3D missing models:14
+NUM of 3D missing models:3
 checked extensions ['.stp', '.step', '.stpZ']
